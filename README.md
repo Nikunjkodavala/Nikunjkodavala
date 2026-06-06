@@ -3,7 +3,7 @@
 
 <!-- Typing SVG -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+%5BYour+Name%5D;Data+Analyst+%7C+BI+Developer;Power+BI+%E2%9A%A1+Python+%E2%9A%A1+ETL;I+turn+raw+data+into+real+decisions+%F0%9F%93%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+%5BNikunj+Kodavala%5D;Data+Analyst+%7C+BI+Developer;Power+BI+%E2%9A%A1+Python+%E2%9A%A1+ETL;I+turn+raw+data+into+real+decisions+%F0%9F%93%8A" alt="Typing SVG" />
 </h1>
 
 <!-- Profile views + Twitter -->
